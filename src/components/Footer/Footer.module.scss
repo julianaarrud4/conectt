@@ -1,0 +1,27 @@
+footer {
+    background-color: #205691;
+    height: 18vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+    
+    div {
+        // border: solid red;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 12%;
+    }
+    p {
+        // border: solid white;
+        width: 25%;
+        text-align: center;
+    }
+    .navFooter {
+        // border: solid yellow;
+        width: 15%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+}

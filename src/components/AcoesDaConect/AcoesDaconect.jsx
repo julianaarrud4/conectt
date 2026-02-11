@@ -7,7 +7,7 @@ import Familia from "../../assets/familia.png";
 import Futuro from "../../assets/futuro.png";
 import Conecta from "../../assets/conecta.png";
 
-import styles from "./AcoesDaConnect.module.scss";
+import styles from "./AcoesDaConect.module.scss";
 
 function AcoesDaConnect() {
   // [] array / lista

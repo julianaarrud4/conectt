@@ -8,7 +8,7 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 //importando todos os componentes para serem usados nas rotas
 import Inicio from "../Inicio/Inicio";
-import Acoes from "../AcoesDaConnect/AcoesDaConnect";
+import Acoes from "../AcoesDaConect/AcoesDaconect";
 import QuemSomos from "../QuemSomos/QuemSomos";
 import Perfil from "../Perfil/Perfil";
 
