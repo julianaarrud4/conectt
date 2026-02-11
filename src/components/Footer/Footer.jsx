@@ -2,7 +2,6 @@
 
 //importando a folha de estilo do footer
 
-import styles from "./Footer.module.scss";
 import Logo from "../../assets/logo.png";
 import Whatsapp from "../../assets/whatsapp.png";
 import Instagram from "../../assets/instagram.png";

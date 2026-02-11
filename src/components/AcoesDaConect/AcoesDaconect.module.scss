@@ -2,6 +2,21 @@
    background-color: pink;
 }
 
+@media (min-width: 201px) and (max-width: 500px) {
+    .boxTitulosAcoes {
+        h2 {
+            font-size: 1.5rem;
+        }
+        p {
+            width: 90%;
+            font-size: 0.75rem;
+        }
+    }
+    .cardsDeAcoes {
+        width: 90%;
+    }
+}
+
 .boxTitulosAcoes {
  // border: solid green;
   height: 25vh;
@@ -16,7 +31,7 @@
   }
 
   p {
-    font-size: 1.5rem;
+    font-size: 1rem;
     // border: solid red;
     width: 40%;
     text-align: center;
