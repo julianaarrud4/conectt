@@ -14,7 +14,7 @@ function AcoesDaConnect() {
   // {} objetos
   // [ {}, {}, {}, {}, {}, {} ] array de objetos
 
-  const [cards, setCards] = useState([
+  const [cards] = useState([
     {
       id: 1,
       imagem: Mutirao,
